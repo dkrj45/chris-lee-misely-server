@@ -1,0 +1,17 @@
+[
+    {
+        "id": "09e4a0ae-8dba-4b42-a313-4b84c93ddbb4",
+        "name": "Prenatal Group",
+        "image": "images/groups/prenatal-group.png"
+    },
+    {
+        "id": "ee759a89-df28-4a31-95f2-e52c678890c8",
+        "name": "Postpartum Exercise",
+        "image": "images/groups/postpartum-exercise.png"
+    },
+    {
+        "id": "8745e540-4173-4c02-a1b1-930d877c5277",
+        "name": "Buy & Sell",
+        "image": "images/groups/buy-&-sell.png"
+    }
+]

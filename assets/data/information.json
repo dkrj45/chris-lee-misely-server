@@ -1,0 +1,26 @@
+[
+    {
+        "id": "37ef72d4-dc6b-4981-86fd-e2077a687d4f",
+        "category": "Lacatation",
+        "title": "Pumping Breast Milk Guide",
+        "image": "images/information/information-lactation.png"
+    },
+    {
+        "id": "5b5758dc-eb2f-4b9b-8c53-87f713a02d49",
+        "category": "Mental Health",
+        "title": "Postpartum Depression VS Baby Blues",
+        "image": "images/information/information-mental-health.png"
+    },
+    {
+        "id": "298832f9-5f4e-41e5-9cf0-425f31366337",
+        "category": "Hygiene / Mental Health",
+        "title": "Taking Care of Yourself After Birth",
+        "image": "images/information/information-hygiene-mental-health.png"
+    },
+    {
+        "id": "87214753-b65b-421b-a5dc-6d3467f05b7f",
+        "category": "Lacatation",
+        "title": "Baby Feeding Schedule for the First Year",
+        "image": "images/information/information-lactation2.png"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "20ba4263-84b6-4d8f-9895-7c88660237c8",
+        "name": "Laura Smith, RMT",
+        "image": "images/booking/booking-laura-smith.png",
+        "rating": "4.5",
+        "rating-pool": "156",
+        "status": "PENDING",
+        "services": [
+            "Housework",
+            "Massage"
+        ],
+        "duration": "Jan 3, 2021 - Jan 7, 2021"
+    },
+    {
+        "id": "a9723b9c-026c-4b28-97e4-db6eb2c274e8",
+        "name": "Michelle Davidson",
+        "image": "images/booking/booking-michelle-davidson.png",
+        "rating": "4.7",
+        "rating-pool": "59",
+        "status": "CONFIRMED",
+        "services": [
+            "Doula",
+            "Lactation"
+        ],
+        "duration": "Jan 3, 2021 - Jan 7, 2021"
+    }
+]

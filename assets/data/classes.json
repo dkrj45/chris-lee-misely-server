@@ -1,0 +1,17 @@
+[
+    {
+        "id": "2e3b4ed1-b6b5-4065-988c-2002d508fa08",
+        "name": "Lactation Classes",
+        "image": "images/classes/lactation-classes.png"
+    },
+    {
+        "id": "b00a7ab2-c50e-4b3b-8b3b-93fb3e36f423",
+        "name": "Sleep Training",
+        "image": "images/classes/sleep-training.png"
+    },
+    {
+        "id": "0075c12b-41d7-49e0-8711-0f0c1e733577",
+        "name": "Yoga",
+        "image": "images/classes/yoga.png"
+    }
+]

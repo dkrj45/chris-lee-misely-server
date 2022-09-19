@@ -1,0 +1,55 @@
+[
+    {
+        "id": "64450fa1-a338-414e-a71e-6bc8cb984a2e",
+        "name": "Laura Smith, RMT",
+        "image": "images/providers/profile-laura-smith.png",
+        "rating": "4.5",
+        "rating-pool": "156",
+        "distance": "5.8 km",
+        "location": "Toronto, ON",
+        "services": [
+            "Housework",
+            "Massage",
+            "Doula"
+        ],
+        "years": "10",
+        "wage": "35",
+        "response": "100",
+        "hours": "4",
+        "language-proficiency": [
+            {
+                "English": "Native or Bilingual Proficiency"
+            },
+            {
+                "French": "Limited Working Proficiency"
+            }
+        ],
+        "about": "My name is Laura. After 3 years of college I worked in several daycare where I utilized my knowledge in the infant, toddle and school age rooms. After working in daycare centres I dedicated more than 10 years of my life working as a full and part-time nanny, taking care of newborns, toddlers and school age children. I am also trained with Dona international as a Birth and Postpartum Doula.  More over, I now Coach families with everyday parenting challenges. As a Nanny, Babysitter, Doula and Parenting Coach I encourages Compassion, Understanding, Team Work, A Judgment Free Space, Good Communication Skills, Open Mindedness, Creativity, Love and Respect.",
+        "reviews": [
+            {
+                "name": "Jessica",
+                "comment": "Patient, friendly, kind and loving. She is great with my Twins and I plan to hire her over and over! Happy to be a reference.",
+                "stars": 4,
+                "image":"images/comments/laura-smith/jessica.png"
+            },
+            {
+                "name": "Jenny",
+                "comment": "She is a true “goddess” in the world of doula practice: a real-world professional, with passion and eternal love for what she does.",
+                "stars": 5,
+                "image":"images/comments/laura-smith/jenny.png"
+            },
+            {
+                "name": "Susan",
+                "comment": "My family was truly blessed to have such an incredible person, honest and sincere friend.",
+                "stars": 5,
+                "image":"images/comments/laura-smith/susan.png"
+            },
+            {
+                "name": "Mary",
+                "comment": "If you are hesitating to hire a doula, I would recommend you look no further and meet with Laura to understand the benefits of her support.",
+                "stars": 4,
+                "image":"images/comments/laura-smith/mary.png"
+            }
+        ]
+    }
+]
