@@ -32,5 +32,5 @@ app.use('/information', informationRoute);
 
 //startup the local server. Change port to 8080 if .env is ignored by git.
 app.listen(PORT, () => {
-  console.log("Server is up and running")
+  console.log("Server is up and running");
 })
