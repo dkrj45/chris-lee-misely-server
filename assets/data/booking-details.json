@@ -4,7 +4,7 @@
         "name": "Laura Smith, RMT",
         "image": "images/booking/booking-details-laura-smith.png",
         "rating": "4.5",
-        "rating-pool": "156",
+        "ratingPool": "156",
         "status": "PENDING",
         "services": [
             "Housework",
@@ -12,10 +12,10 @@
         ],
         "start-date":"January 3, 2021",
         "end-date":"January  7, 2021",
-        "services-detail":"Housework, Massage Therapy",
+        "servicesDetail":"Housework, Massage Therapy",
         "hours":"4 hours",
         "language":"English",
-        "house-size":"1200 sqft",
+        "houseSize":"1200 sqft",
         "reference":"EFJKIGEIRT5"
     }
 ]

@@ -4,7 +4,7 @@
         "name": "Laura Smith, RMT",
         "image": "images/booking/booking-laura-smith.png",
         "rating": "4.5",
-        "rating-pool": "156",
+        "ratingPool": "156",
         "status": "PENDING",
         "services": [
             "Housework",
@@ -17,7 +17,7 @@
         "name": "Michelle Davidson",
         "image": "images/booking/booking-michelle-davidson.png",
         "rating": "4.7",
-        "rating-pool": "59",
+        "ratingPool": "59",
         "status": "CONFIRMED",
         "services": [
             "Doula",

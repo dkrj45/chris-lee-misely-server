@@ -4,7 +4,7 @@
         "name": "Laura Smith, RMT",
         "image": "images/providers/profile-detail-laura-smith.png",
         "rating": "4.5",
-        "rating-pool": "156",
+        "ratingPool": "156",
         "distance": "5.8 km",
         "location": "Toronto, ON",
         "services": [
@@ -16,7 +16,7 @@
         "wage": "35",
         "response": "100",
         "hours": "4",
-        "language-proficiency": [
+        "languageProficiency": [
             {
                 "English": "Native or Bilingual Proficiency"
             },
