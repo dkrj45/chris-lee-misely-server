@@ -10,8 +10,8 @@
             "Housework",
             "Massage"
         ],
-        "start-date":"January 3, 2021",
-        "end-date":"January  7, 2021",
+        "startDate":"January 3, 2021",
+        "endDate":"January  7, 2021",
         "servicesDetail":"Housework, Massage Therapy",
         "hours":"4 hours",
         "language":"English",
