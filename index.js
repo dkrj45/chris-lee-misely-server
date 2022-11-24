@@ -28,6 +28,9 @@ app.use('/classes', classesRoute);
 app.use('/groups', groupsRoute);
 app.use('/information', informationRoute);
 
+app.get('/', (req, res) => {
+  res.send("Welcome to Misely Server")
+})
 
 
 //startup the local server. Change port to 8080 if .env is ignored by git.
